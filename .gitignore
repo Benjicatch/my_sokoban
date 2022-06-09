@@ -1,0 +1,8 @@
+*.o
+libmy.a
+my_sokoban
+*.gc*
+*~
+a.out
+unit_tests
+.vscode
